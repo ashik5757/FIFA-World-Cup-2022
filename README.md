@@ -50,7 +50,7 @@ This is an Oracle Apex based application.
 blah
 ~~~
 
-> NOTE : Must change the directory path for javafx-sdk-16\lib.
+> NOTE : 
 
 <br>
 
@@ -74,7 +74,7 @@ blah
 
 
 <p align="center" width="100%">
-    <img src="![image](https://github.com/ashik5757/FIFA-World-Cup-2022/assets/81816852/2491f0b7-ce59-480a-997b-37e7075944ea)">
+    <img src="https://github.com/ashik5757/FIFA-World-Cup-2022/assets/81816852/2491f0b7-ce59-480a-997b-37e7075944ea">
 </p>
 
 <br>
