@@ -71,7 +71,8 @@ blah
 
 
 <p align="center" width="100%">
- - ### E-R Model :
+ 
+ - ### E-R Model   :
     <img src="https://github.com/ashik5757/FIFA-World-Cup-2022/assets/81816852/65348901-c70a-41fe-b7a3-388e2116ab3e">
     <br>
 
