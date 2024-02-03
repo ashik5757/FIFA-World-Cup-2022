@@ -90,21 +90,21 @@ blah
 - ### _Homepage_ :
 
 
-
 <p align="center" width="100%">
     <img src="https://github.com/ashik5757/FIFA-World-Cup-2022/assets/81816852/afc5cceb-aba9-4aab-ac05-ba5ffef77b3b">
     <img src="https://github.com/ashik5757/FIFA-World-Cup-2022/assets/81816852/4410feb0-0af0-4bf9-b33c-a87e4ec61889">
-    <img src="https://github.com/ashik5757/FIFA-World-Cup-2022/assets/81816852/2491f0b7-ce59-480a-997b-37e7075944ea">
-    <img src="https://github.com/ashik5757/FIFA-World-Cup-2022/assets/81816852/2b165ecb-79a6-4c2c-b852-4baff3910c70">
- 
-
-
  
 </p>
 
 <br>
 
+- ### _Form Page_ :
 
+<p align="center" width="100%">
+    <img src="https://github.com/ashik5757/FIFA-World-Cup-2022/assets/81816852/2491f0b7-ce59-480a-997b-37e7075944ea">
+    <img src="https://github.com/ashik5757/FIFA-World-Cup-2022/assets/81816852/2b165ecb-79a6-4c2c-b852-4baff3910c70">
+ 
+</p>
 
 
 
