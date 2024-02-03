@@ -14,7 +14,7 @@ This is an Oracle Apex based application.
 ## Tools Used :
 
 - Oracle Apex
-- 
+- SQL Developer
 
 <br>
 
@@ -80,6 +80,8 @@ blah
     <img src="https://github.com/ashik5757/FIFA-World-Cup-2022/assets/81816852/59a6f726-ea4d-4cd2-8e21-4c7a21975d5b">
 </p>
 
+
+<br>
 
 ## Screenshot of Functionalities :
 
