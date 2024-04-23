@@ -1,5 +1,5 @@
 # FIFA-World-Cup-2022
-This is an Oracle Apex based application.
+This is an Oracle Apex based application for storing the FIFA world cup match data or any other tournament.
 
 
 <br>
