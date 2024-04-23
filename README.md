@@ -26,21 +26,11 @@ This is an Oracle Apex based application for storing the FIFA world cup match da
 
 ## Setup :
 
-- ### _Tools required_ :
-
-
-<br>
-
-
-
-<br>
-
-
 
 - ### _Download :_
- 
+  -  Oracle SQL Developer
 
-
+<!-- 
 
 <br>
 
@@ -61,11 +51,8 @@ blah
 
 <br>
 
+-->
 
-
-<br>
-  
-## Developed by :
 
 
 
